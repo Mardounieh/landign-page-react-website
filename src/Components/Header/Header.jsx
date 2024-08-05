@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
-import { Logo } from "../Logo";
+import { Logo } from "../SVGs/Logo";
 import { WaitListButton } from "../WaitListButton";
-import { Squares } from "../Squares";
+import { Squares } from "../SVGs/Squares";
 
 export const Header = () => {
   return (

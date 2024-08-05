@@ -5,8 +5,8 @@ import { Blog } from './Pages/Blog/Blog';
 
 function App() {
   return (
-    <div className="flex flex-col gap-32 items-center h-screen 
-      bg-[radial-gradient(170%_150%_at_50%_1%,rgba(0,90,120)_1%,rgba(0,0,0)_40%)]
+    <div className="flex flex-col gap-32 items-center  
+      bg-[radial-gradient(300%_150%_at_50%_-10%,rgb(50,100,134)_1%,rgba(0,0,0)_25%)]
       selection:text-cyan-700 selection:bg-cyan-300">
       <Router>
         <Routes>
