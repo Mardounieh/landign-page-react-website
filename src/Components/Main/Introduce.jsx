@@ -1,10 +1,10 @@
 import { ArrowDown } from "../SVGs/ArrowDonw";
 import { WaitListButton } from "../WaitListButton";
-import DashboardImg from "../../Assets/Imgaes/dashboard.webp";
+import DashboardImg from "../../Assets/Images/dashboard.webp";
 
 export const Introduce = () => {
   return (
-    <section className="flex flex-col gap-10 items-center">
+    <section className="flex flex-col gap-10 items-center px-5">
       <div className="flex flex-col gap-10 justify-evenly text-center items-center w-10/12 sm:w-full md:w-5/6 lg:w-5/6 xl:w-4/6">
         <h1 className="text-3xl sm:text-5xl md:text-6xl lg:text-7xl leading-snug font-bold text-transparent bg-gradient-to-br tracking-tight from-zinc-100 to-zinc-500 bg-clip-text">
           Unleash the power of intuitive finance
