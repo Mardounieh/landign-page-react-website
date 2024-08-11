@@ -1,5 +1,5 @@
 import { ArrowDown } from "../SVGs/ArrowDonw";
-import { WaitListButton } from "../WaitListButton";
+import { WaitListButton } from "../../Utilities/WaitListButton";
 import DashboardImg from "../../Assets/Images/dashboard.webp";
 
 export const Introduce = () => {

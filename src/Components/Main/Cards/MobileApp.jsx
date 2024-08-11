@@ -1,5 +1,5 @@
-import hand from "../../Assets/Images/hand.webp";
-import mobile from "../../Assets/Images/mobile-app.svg";
+import hand from "../../../Assets/Images/hand.webp";
+import mobile from "../../../Assets/Images/mobile-app.svg";
 
 export const MobileApp = () => {
   return (
