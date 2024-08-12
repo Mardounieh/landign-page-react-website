@@ -32,7 +32,7 @@ export const Services = () => {
           title="Important business alerts"
           description="Choose the alerts you need and receive them via email, mobile or Slack. Review and take action in one click."
         />
-        <div className="col-start-1 col-end-3">
+        <div className="lg:col-start-1 lg:col-end-3">
           <IntegrationsHub
             title="Connect all your apps"
             description="Bring your data with our built-in integrations for accounting, revenue tools and banking."
