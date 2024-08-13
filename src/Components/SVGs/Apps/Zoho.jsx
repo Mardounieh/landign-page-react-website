@@ -1,7 +1,7 @@
 export const Zoho = () => {
   return (
     <svg
-      class="h-10 w-10"
+      class="h-8 w-8"
       viewBox="0 0 512 177"
       xmlns="http://www.w3.org/2000/svg"
       preserveAspectRatio="xMidYMid"

@@ -1,6 +1,6 @@
 export const Square = () => {
   return (
-    <svg class="h-9 w-9" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+    <svg class="h-8 w-8" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
       <path
         fill-rule="evenodd"
         clip-rule="evenodd"

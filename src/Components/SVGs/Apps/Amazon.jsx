@@ -1,7 +1,7 @@
 export const Amazon = () => {
   return (
     <svg
-      class="h-9 w-9"
+      class="h-8 w-8"
       viewBox="2.17 0.44 251.04 259.97"
       xmlns="http://www.w3.org/2000/svg"
     >

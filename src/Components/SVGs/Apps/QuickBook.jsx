@@ -1,7 +1,7 @@
 export const QuickBook = () => {
   return (
     <svg
-      class="h-9 w-9"
+      class="h-8 w-8"
       xmlns="http://www.w3.org/2000/svg"
       viewBox="0 0 128 128"
     >

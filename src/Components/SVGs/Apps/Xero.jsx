@@ -1,7 +1,7 @@
 export const Xero = () => {
   return (
     <svg
-      class="h-9 w-9"
+      class="h-8 w-8"
       viewBox="0 0 45 46"
       xmlns="http://www.w3.org/2000/svg"
     >
