@@ -1,4 +1,4 @@
-
+import { LastWord } from "../Footer/LastWord";
 import { Ai } from "./Ai";
 import { Introduce } from "./Introduce";
 import { LearnMore } from "./LearnMore";
@@ -11,6 +11,7 @@ export const Main = () => {
       <LearnMore/>
       <Services/>
       <Ai/>
+      <LastWord />
     </main>
   );
 };
