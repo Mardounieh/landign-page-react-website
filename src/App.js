@@ -6,8 +6,8 @@ import './App.css';
 
 function App() {
   return (
-    <div className="flex flex-col gap-32 items-center  
-      bg-[radial-gradient(300%_130%_at_50%_-10%,rgb(50,100,134)_1%,rgba(0,0,0)_25%)]
+    <div className="flex flex-col items-center  
+      bg-[radial-gradient(300%_130%_at_50%_-15%,rgb(50,100,134)_1%,rgba(0,0,0)_25%)]
       selection:text-cyan-700 selection:bg-cyan-300">
       <Router>
         <Header/>

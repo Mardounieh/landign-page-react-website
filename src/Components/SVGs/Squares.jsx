@@ -1,7 +1,7 @@
-export const Squares = () => {
+export const Squares = (props) => {
   return (
     <svg
-      class="absolute inset-0 z-10 pointer-events-none h-full w-full stroke-white/10 [mask-image:radial-gradient(75%_50%_at_top_center,white,transparent)]"
+      class={`absolute inset-0 z-10 pointer-events-none h-full w-full stroke-white/10 ${props.mask} ${props.style}`}
       aria-hidden="true"
     >
       <defs>
