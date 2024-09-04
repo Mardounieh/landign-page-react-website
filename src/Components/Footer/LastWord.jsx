@@ -8,10 +8,10 @@ export const LastWord = () => {
       <div className="z-50 backdrop-blur-3xl flex flex-col items-center gap-16 pb-16 w-full">
         <span className="flex w-full h-[1px] bg-gradient-to-r from-transparent from-30% via-cyan-500 to-transparent to-70%"></span>
         <div className="w-full flex flex-col items-center gap-4">
-          <h2 className="w-1/2 pt-5 text-4xl text-center font-bold text-transparent bg-gradient-to-br tracking-tight from-zinc-100 to-zinc-500 bg-clip-text">
+          <h2 className="w-5/6 pt-5 text-4xl text-center font-bold text-transparent bg-gradient-to-br tracking-tight from-zinc-100 to-zinc-500 bg-clip-text">
             See where financial automation can take your business.
           </h2>
-          <p className="text-xl text-zinc-500 ">
+          <p className="text-xl w-1/2 text-center text-zinc-500 ">
             The first financial tool you'll love. And the last one you'll ever
             need.
           </p>
