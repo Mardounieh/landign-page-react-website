@@ -1,4 +1,4 @@
-import { LastWord } from "../Footer/LastWord";
+import { LastWord } from "./LastWord";
 import { Ai } from "./Ai";
 import { Introduce } from "./Introduce";
 import { LearnMore } from "./LearnMore";
