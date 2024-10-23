@@ -6,7 +6,7 @@ import { Services } from "./Services";
 
 export const Main = () => {
   return (
-    <main className="flex flex-col gap-16 justify-evenly items-center">
+    <main className="flex flex-col gap-16 justify-evenly items-center overflow-hidden">
       <Introduce/>
       <LearnMore/>
       <Services/>

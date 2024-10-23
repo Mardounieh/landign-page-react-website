@@ -6,7 +6,7 @@ import { SignUp } from "../../Components/Main/Cards/SignUp";
 export const Home = () => {
   return (
     <React.Fragment>        
-        <Main />
+      <Main />
       <Footer />
     </React.Fragment>
   );
