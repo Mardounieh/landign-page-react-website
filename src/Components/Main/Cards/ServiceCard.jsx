@@ -1,6 +1,6 @@
 export const ServicesCard = (props) => {
   return (
-    <div className={`w-full ${props.position} ${props.order} overflow-hidden rounded-xl flex flex-col text-zinc-400/90 ring-1 ring-zinc-800`}>
+    <div className={`w-full ${props.position} ${props.additionalStyle} overflow-hidden rounded-xl flex flex-col text-zinc-400/90 ring-1 ring-zinc-800`}>
       <div className="h-4/6 [mask:linear-gradient(black_40%,transparent)]">
         <div>{props.background}</div>
         <div>{props.preview}</div>

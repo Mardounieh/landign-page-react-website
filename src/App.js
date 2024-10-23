@@ -10,7 +10,7 @@ function App() {
   const [signUpState, setSignUpState] = useState(false);
   return (
     <div
-      className="flex flex-col items-center  
+      className="flex flex-col items-center w-screen
       bg-[radial-gradient(300%_130%_at_50%_-15%,rgb(50,100,134)_1%,rgba(0,0,0)_25%)]
       selection:text-cyan-700 selection:bg-cyan-300"
     >
