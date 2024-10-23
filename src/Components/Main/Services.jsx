@@ -42,9 +42,8 @@ export const Services = () => {
           background={<OptionsBg />}
           title="You’re in control"
           description="Lightning fast. Shortcuts for everything. Command+K on Mac, Ctrl+K on Windows. Dark mode."
-          additionalStyle=""
         />
-        <div className="">
+        <div className="lg:col-span-2 xl:col-start-2 xl:col-end-4">
           <IntegrationsHub
             title="Connect all your apps"
             description="Bring your data with our built-in integrations for accounting, revenue tools and banking."
